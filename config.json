@@ -1,0 +1,205 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#2F2F2F",
+            "lang-select-color": "#222829",
+            "bg-light": "#2B2A2B",
+            "welcome-bonus-bg": "#858585",
+            "top-games-hover-fg": "#050505",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#2B2A2B",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#94011E",
+            "yellow": "#00497C",
+            "yellow-button": "#94011E",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#858585",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#2F2F2F",
+            "faq-label": "#858585",
+            "bg-footer": "#2F2F2F",
+            "copyright": "#e7e7d5",
+            "starColor": "#00497C",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Admiral Mendrisio",
+            "title": "Casino Admiral Mendrisio – Slots, Roulette & Pokerroom",
+            "description": "Casino Admiral Mendrisio: 340+ Slots, Roulette, Blackjack, Pokerroom, Bar & Restaurant. Täglich bis spät geöffnet, Gratis‑Parking, Lage bei FoxTown – ideal für Spiel & Dinner.\n",
+            "canonical": "casino-mendrisio.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1117",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casino-mendrisio.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1118",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1119"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1121",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Admiral Mendrisio Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "hero": {
+            "title": "Casino Admiral Mendrisio – Slots, Roulette, Pokerroom & Restaurant im Tessin",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1122",
+            "imageSizeModifier": 10,
+            "imageYModifier": -3,
+            "imageXModifier": 5,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1123",
+            "mobileImageSizeModifier": -3,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Bonuscode",
+            "casino": "Casino",
+            "bonuses": "Boni",
+            "rate": "Rate",
+            "freeSpins": "Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "",
+            "items": [
+                "Grosse Auswahl an Slots und Jackpots",
+                "Breites Tischspiel‑Angebot: Roulette, Blackjack, Punto Banco verfügbar",
+                "Aktiver Pokerroom: Cash Games und Turniere täglich",
+                "Faire Limits und Währungen im Poker",
+                "Top‑Lage bei FoxTown und A2‑Ausfahrt Mendrisio",
+                "Restaurant und Cafés direkt im Casino",
+                "Kostenloses Parking, lange Öffnungszeiten täglich bis spät"
+            ],
+            "advantagesAfterText": "Das Casino Admiral Mendrisio verbindet eine breite Spielauswahl mit bequemer Infrastruktur und langen Öffnungszeiten. Der aktive Pokerroom und das Restaurant vor Ort sorgen für ein rundes Erlebnis ohne zusätzliche Wege. Dank FoxTown‑Lage und grossem Parking ist der Besuch besonders unkompliziert.\n",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Casino Admiral Mendrisio App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1124",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Admiral Mendrisio App",
+            "mobileGooglePlayImageTitle": "Casino Admiral Mendrisio App",
+            "mobileIosImageTitle": "Casino Admiral Mendrisio App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Casino Admiral Mendrisio",
+                "description1": "",
+                "items": [
+                    "Jackpots bis 180'000 CHF.",
+                    "Online‑Bonus bis 1’000 CHF.",
+                    "Turniere bis €300’000."
+                ],
+                "description2": "Das Casino Admiral Mendrisio ist ein modernes Casino im Tessin mit Fokus auf Komfort und Stil. Gäste erwarten eine breite Slot‑Auswahl mit progressiven Jackpots und vielfältigen Providern. Für Tischspiel‑Fans gibt es Roulette, Blackjack und Punto Banco im täglichen Betrieb. Der separate Pokerroom bietet Cash Games und regelmässige Turniere in freundlicher Atmosphäre. Restaurant und Cafés im Haus ergänzen den Abend mit Küche aus der Region und passender Weinkarte. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1125",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Die Lage bei FoxTown und nahe der Autobahn macht die Anreise aus der Schweiz und Italien besonders bequem. Die Öffnungszeiten gehen bis spät, sodass Besuche ohne Zeitdruck möglich sind. Der Service setzt auf verantwortungsvolles Spielen, klare Regeln und kompetente Unterstützung. Raucher‑ und Nichtraucherbereiche sowie grosszügige Parkplätze sorgen für zusätzlichen Komfort. Das Casino Admiral Mendrisio verbindet Unterhaltung, Gastronomie und Verlässlichkeit an einem Ort.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Admiral Mendrisio: Stil, Atmosphäre und Vorteile",
+                "description": "<p>\nIm Casino Admiral Mendrisio spürt man vom ersten Moment den durchdachten Stil: modernes Design, warmes Licht, klare Wegeführung sowie getrennte Bereiche für Raucher und Nichtraucher erzeugen eine ruhige, gleichzeitig lebendige «Art of Gaming»‑Atmosphäre. Die Lage direkt bei FoxTown und das aufmerksame, mehrsprachige Team runden das Gesamtbild ab und machen den Besuch sowohl für einen kurzen Abend als auch für ein ganzes Wochenende attraktiv. Der Smart‑Casual‑Dresscode wahrt die Wertigkeit und bleibt dennoch bequem.\n\n<\/p>\n<br>\n\n<p>\nDas Casino ist täglich bis spät geöffnet, wodurch Sie Ihren Besuch ohne Zeitdruck planen und Spiel sowie Dinner flexibel kombinieren können. Die Tischspiele starten am Nachmittag und laufen bis in die späten Abendstunden, der Pokerroom bietet Cash‑Formate und regelmässige Turniere mit verlässlichem Rhythmus. So lassen sich Shopping, Gaming und Kulinarik ideal in einer Route verbinden, während Responsible‑Gaming‑Services Transparenz und Sicherheit gewährleisten.\n\n<\/p>\n<br>\n<p>\nInnerhalb des Gaming‑Bereichs erwarten Sie die Admiral Cafés und der gemütliche Admiral Bistrot mit Signature‑Drinks, Kaffee, leichten Snacks und schnellen Speisen mit Blick auf den Saal. Für das vollwertige Dinner öffnet abends das Admiral Restaurant mit Tessiner Produkten und passender Weinkarte; ein idealer Ort für das Warm‑up vor dem Spiel oder den entspannten Ausklang des Abends. Die Barcrew hält den Takt des Hauses und empfiehlt saisonale Positionen passend zu Ihrem Tempo.\n\n<\/p>\n<br>\n<p>\nWer übernachten möchte, profitiert vom angrenzenden Hotel Coronado sowie von weiteren Unterkünften in Mendrisio und Como, die fussläufig oder in wenigen Minuten erreichbar sind. Die Nähe zur Autobahn und zur Bahn, kombiniert mit grosszügigem, kostenlosem Parking, reduziert die Logistik auf ein Minimum. Diese Infrastruktur macht den Standort für Kurzbesuche ebenso attraktiv wie für verlängerte Trips.\n\n<\/p>\n<br>\n<p>\nDas Entertainment umfasst regelmässige Poker‑Events, thematische Slot‑Promotions und spezielle Abende, die den Jahreskalender füllen. Die Location eignet sich auch für private und Corporate‑Anlässe: mit stimmigen Räumen, gastronomischen Optionen und der Möglichkeit, Gaming‑Elemente zu integrieren. Renommee und Auszeichnungen unterstreichen die Stellung des Casinos als eine der führenden Adressen im Kanton.\n\n<\/p>\n<br>\n\n<p>\nBonus‑ und Treueprogramme der Marke ADMIRAL verbinden den Onsite‑Besuch mit Online‑Aktivitäten: Willkommensangebote, Punkte‑Accumulation beim Spiel, Statusstufen mit Benefits wie Spielguthaben, Gastro‑Vouchern und Einladungen zu exklusiven Events. Mit der Newsletter‑Anmeldung bleiben Sie über Promotions und Turniere auf dem Laufenden; alle Angebote folgen den Schweizer Standards des verantwortungsvollen Spielens. So werden Gewinne und Vorteile greifbarer und das Gästeerlebnis bleibt ganzheitlich und verlässlich.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSprache, Zahlung und Services im Casino Admiral Mendrisio\n<\/h3>\n\n<p>\nIm Casino Admiral Mendrisio ist Italienisch die Hauptsprache, passend zum Tessin, doch das Team ist klar international ausgerichtet. Am Empfang, an den Tischen und im Pokerroom werden Sie problemlos auf Englisch betreut; Deutsch und Französisch sind ebenfalls verfügbar, und die Saal‑Kommunikation ist mehrsprachig. So bleibt der Besuch für Gäste aus der ganzen Schweiz und aus Italien angenehm und unkompliziert.\n\n<\/p>\n<br>\n\n<p>\nZahlungen vor Ort erfolgen primär in Schweizer Franken; Bargeld, Karten und kontaktlose Zahlungen werden akzeptiert, gängige Mobile‑Wallets sind unterstützt. Für Buy‑ins und Cash Games im Poker sind Transaktionen in Euro vorgesehen, während die Kasse eine saubere Konvertierung ermöglicht, um unnötige Gebühren zu vermeiden. Alle Abläufe sind transparent und werden mit Quittungen dokumentiert; bei Bedarf erklärt das Team Details in Ihrer bevorzugten Sprache.\n\n<\/p>\n<br>\n<p>\nBankomaten befinden sich im Komplex sowie im angrenzenden FoxTown, sodass Sie Bargeld schnell und ohne Umwege beziehen können. Die Auszahlung erfolgt in der Regel in Schweizer Franken; Limiten und mögliche Gebühren richten sich nach Ihrem Kartenherausgeber. Zusätzlich bietet die Kasse Cash‑Advance‑Services für Karteninhaber und berät Sie zum optimalen Vorgehen je nach Bank und Konditionen.\n\n<\/p>\n<br>\n<p>\nDer Währungswechsel ist an der Casino‑Kasse für gängige Devisen verfügbar; für erweiterten Bedarf stehen Services in den nahegelegenen Hotels zur Verfügung. Gemäss Schweizer Vorgaben ist ein Identitätsnachweis erforderlich; Kurs und verfügbare Beträge folgen der Marktlage und den internen Regeln. Praktischer Tipp: Wenn Sie keinen Euro‑Poker planen, zahlen Sie vorzugsweise in Franken oder mit Karte, um doppelte Umrechnungen zu vermeiden.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBesuchsregeln im Casino Admiral Mendrisio: Dresscode, Bedingungen und Anreise\n<\/h3>\n\n<p>\nDer Besuch im Casino Admiral Mendrisio basiert auf Respekt gegenüber den Gästen und einem verantwortungsvollen Umgang mit dem Spiel, daher sind die Regeln klar und angenehm gestaltet. Der Dresscode ist Smart‑Casual: Jackett und Krawatte sind nicht Pflicht, Sport‑ oder Strandkleidung ist im Spielbereich nicht erwünscht. Der Zutritt erfolgt mit gültigem Ausweisdokument zur Altersbestätigung; standardisierte Sicherheitskontrollen am Eingang sind möglich. Das Casino setzt auf sicheres Vergnügen: Bitte beachten Sie Responsible‑Gaming‑Hinweise und die Anweisungen des Teams. Foto‑ und Videoaufnahmen im Spielbereich sind eingeschränkt, die Nutzung des Mobiltelefons am Tisch ist untersagt. Der Eintritt in deutlich alkoholisiertem Zustand ist nicht gestattet, eigene Speisen und Getränke sind im Saal nicht erlaubt. Rauchen ist ausschliesslich in klar gekennzeichneten Bereichen möglich; für E‑Zigaretten gelten dieselben Regeln. Im Pokerroom gelten zusätzliche Vorgaben für Kommunikation und Geräte, über die die Saalaufsicht informiert. Die Direktion behält sich vor, den Zutritt bei Verstoss gegen Verhaltens‑ oder Sicherheitsregeln zu verweigern. Die Anreise ist sowohl mit dem Auto als auch mit ÖV bequem: Lage direkt bei FoxTown und nahe der Autobahn, der Bahnhof liegt in kurzer Fussdistanz. Grosszügige Parkplätze stehen zur Verfügung, die Wegeführung vor Ort ist beschildert und wird vom Team unterstützt. Die Einhaltung dieser Richtlinien schafft eine angenehme Atmosphäre und macht den Abend berechenbar und angenehm für alle.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDresscode\n<\/h4>\n\n <ul>\n            <li>• \nSmart‑Casual: gepflegte Freizeitkleidung, keine Sport‑\/Strandkleidung\n\n<\/li>\n            <li>• \nSaubere Schuhe und gepflegtes Erscheinungsbild; Kopfbedeckungen je nach Situation, im Spielbereich idealerweise ohne\n\n<\/li>\n            <li>• \nOberbekleidung und Rucksäcke bitte an der Garderobe oder gemäss Anleitung des Personals\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBesuchsbedingungen\n<\/h4>\n\n <ul>\n            <li>• \nZutritt mit gültigem Ausweisdokument zur Altersbestätigung\n\n<\/li>\n            <li>• \nBeachtung der Responsible‑Gaming‑Regeln und Team‑Anweisungen\n<\/li>\n            <li>• \nStichprobenartige Taschenkontrollen und Metalldetektor gemäss Sicherheitsstandard möglich\n\n<\/li>\n            <li>• \nZutrittsverweigerung bei Verstoss gegen Verhaltensnormen vorbehalten\n\n<\/li>\n\t    <li>• \nGäste mit aktiver Spielsperre haben keinen Zugang\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerbote\n<\/h4>\n\n <ul>\n            <li>• \nMobiltelefon‑Nutzung und Aufnahmen direkt am Spieltisch\n\n<\/li>\n            <li>• \nMobiltelefon‑Nutzung und Aufnahmen direkt am Spieltisch\n\n<\/li>\n            <li>• \nAudio‑\/Videoaufnahmen des Spielbetriebs ohne Genehmigung der Direktion\n\n<\/li>\n            <li>• \nAggressives Verhalten, Eingriffe in die Arbeit der Dealer und Systeme\n\n<\/li>\n\t    <li>• \nTiere im Spielbereich (ausser Assistenzhunde gemäss geltenden Regeln)\n\n\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking und Anreise\n<\/h4>\n\n <ul>\n            <li>• \nBequeme Zufahrt ab der Autobahn; die Beschilderung führt direkt zum Komplex\n\n<\/li>\n            <li>• \nGrosszügige Parkplätze vor Ort, klar markierte Zonen, gute Verfügbarkeit bis spät\n\n<\/li>\n            <li>• \nÖV: Bahnhof Mendrisio in Fussdistanz, anschliessend kurzer Fussweg\n\n<\/li>\n            <li>• \nTaxi und Ride‑Sharing an der Eingangszone; bitte den Hinweisen des Sicherheitsteams folgen\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTreueprogramm im Casino Admiral Mendrisio: mehr Vorteile bei jedem Besuch\n<\/h3>\n\n<p>\nDas Treueprogramm des Casino Admiral Mendrisio verknüpft den Vor‑Ort‑Besuch mit Ihrer Aktivität auf Admiral.ch, damit regelmässiges Spielen und häufige Besuche sichtbar belohnt werden. Das System ist klar aufgebaut: spielen – Punkte sammeln – Level aufsteigen – mehr Benefits erhalten. Die Anmeldung dauert nur wenige Minuten und schaltet personalisierte Angebote, Monats‑Rewards sowie beschleunigte Punkte‑Sammlung frei. Online profitieren Sie von Willkommenspaketen mit Einzahlungsboni und Free Spins sowie von monatlichen Cash‑Belohnungen im Loyalty‑Programm. Vor Ort ergänzen Promo‑Tickets, thematische Aktionen und Einladungen zu Events in Mendrisio das Gesamtpaket. Wichtig ist die Transparenz: Schweizer Responsible‑Gaming‑Standards, klare Bedingungen und alle Details direkt in Ihrem Profil. Je aktiver Sie Slots, Live‑Games oder Poker spielen, desto schneller steigen Sie in den Stufen und öffnen erweiterte Vorteile. Am Ende entsteht ein nahtloses Erlebnis: Boni, Status, schnellere Auszahlungen online und Vor‑Ort‑Benefits greifen wie Zahnräder ineinander.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistrierungsbedingungen\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAnmeldung auf Admiral.ch (Schweizer Lizenz, ab 18 Jahren)\n\n<\/li>\n            <li>• \nIdentitätsbestätigung und Profilaktivierung für Boni und Loyalty\n\n<\/li>\n            <li>• \nZustimmung zu Programmregeln und Newsletter‑Erhalt (damit keine Aktion verpasst wird)\n<\/li>\n    \n        <\/ul><br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLevels und wie man sie erreicht\n\n<\/h4>\n\n <ul>\n            <li>• \nBasis‑Level: wird unmittelbar nach der Registrierung vergeben; Zugang zu Willkommensangeboten und Monats‑Rewards\n\n<\/li>\n            <li>• \nHöhere Levels: werden durch Punkte aus Spielaktivität (Slots, Live‑Games, ausgewählte Promotions) freigeschaltet; Fortschritt ist im Profil sichtbar\n\n<\/li>\n            <li>• \nBeschleuniger: zeitweise Double Points‑Kampagnen erhöhen die Punktesammlung und verkürzen den Weg zur nächsten Stufe\n\n<\/li>\n            <li>• \nPersönliche Einladungen: für aktive Spieler mit hohem Engagement gibt es individuelle Offerten und exklusive Events vor Ort\n<\/li>\n\n        <\/ul><br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerfügbare Boni \n<\/h4>\n\n <ul>\n            <li>• \nOnline‑Willkommenspaket: 100 % Einzahlungsbonus bis CHF 300 (mehrstufiges Paket) + bis zu 500 Free Spins für einen starken Start\n\n<\/li>\n            <li>• \nMonatlicher Cash‑Bonus im Loyalty‑Programm: bis CHF 50 bei ausreichender Aktivität\n\n<\/li>\n            <li>• \nFreunde‑Bonus: CHF 50 für eine erfolgreiche Empfehlung (nach Aktionsbedingungen)\n\n<\/li>\n            <li>• \nVor‑Ort‑Promo‑Tickets: feste Gutscheine, z. B. CHF 10, im Rahmen saisonaler Aktionen und spezieller Tage\n\n<\/li>\n\t    <li>• \nSaisonaktionen: beschleunigte Punkte, exklusive Free Spins und thematische Extras in Feiertagsphasen\n\n<\/li>\n\t    <li>• \nStatus‑Benefits: mit höheren Levels wachsen Aktionslimits, Prioritätseinladungen und personalisierte Angebote\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im Casino Admiral Mendrisio",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni, Gewinne und Spezialangebote im Casino Admiral Mendrisio\n<\/h3>\n\n<p>\nDas Casino Admiral Mendrisio gestaltet seine Promo‑Welt so, dass Gäste konstant Mehrwert erhalten: von Online‑Einzahlungsboni und Free Spins über Vor‑Ort‑Promo‑Tickets bis hin zu progressiven Jackpots auf der Fläche. Der saisonale Kalender ergänzt die Basis‑Promotions mit Themen‑Tagen und Feiertags‑Aktionen, sodass die Intensität nicht nur am Wochenende spürbar ist. Die Online‑Plattform Admiral.ch sorgt mit Willkommenspaketen und regelmässigen Free Spins für einen schnellen Einstieg, während vor Ort spezielle Draws, Lucky Chips und Mini‑Events stattfinden. Progressive Jackpots auf Slots wachsen in Echtzeit und liefern spürbare Auszahlungen in Peak‑Zeiten. Die Pokerszene wird durch grosse Serien und regelmässige Turniere mit beachtlichen Preisgeldern getragen und zieht Spieler aus dem Tessin und der nahen Lombardei an. Ein Teil der Aktionen ist an Sport‑Partnerschaften und den regionalen Kalender gekoppelt, wodurch flexible Formate entstehen — vom schnellen Eintrittsbonus bis zu Wochen‑Events. In der Festzeit läuft eine Advent‑Mechanik mit täglichen Extras, unter der Woche die «Game of the Week» mit Free Spins sowie thematische Slot‑Aktionen. Insgesamt deckt die Promo‑Linie Slots, Tischspiele\/Poker und Entertainment ab und erlaubt eine optimale Abendplanung mit maximalem Nutzen.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOnline‑Spielboni (Admiral.ch)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nWillkommenspaket: 100 % Einzahlungsbonus bis CHF 300 (mehrstufiges Paket) + bis zu 500 Free Spins — starker Start und grösserer Bankroll\n\n<\/li>\n            <li>• \nGame of the Week: bis 45 kostenlose Spins jede Woche — erhöhte Aktivität auf Topslots\n\n<\/li>\n            <li>• \nFreunde‑Bonus: CHF 50 pro Empfehlung nach Aktionsbedingungen — Extra‑Cash ohne Spielaufwand\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVor‑Ort‑Spezialangebote (Mendrisio)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLucky Chips \/ Eintritts‑Promo‑Tickets: feste Gutscheine, z. B. CHF 10, an Themen‑Tagen und «Moon Party»\n\n<\/li>\n            <li>• \nMoney Shower (Promo‑Kabine): Ausgabe von Promo‑Tickets mit variablen Beträgen — Chance auf zusätzliche CHF fürs Spiel\n\n<\/li>\n            <li>• \nSporttage & Partner‑Aktionen: mit Match‑Ticket gibt’s im Aktionszeitraum einen Promo‑Voucher CHF 10\n<\/li>\n \n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJackpots und Gewinne (Floor)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nProgressive Slot‑Jackpots: Admiral Jackpot und Mendrisio Jackpot — reale Treffer, oft über CHF 180’000 in Spitzenzeiten\n\n<\/li>\n            <li>• \nNetzwerk‑ und Mini‑Jackpots: häufige Auszahlungen von kleineren Beträgen bis zu markanten Gewinnen — zusätzliche Spiel‑Dynamik\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTurniere und Preisgelder (Poker & Slots)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPoker‑Majors und Serien: La Notte degli Assi, IPO Master, Swiss Championship of Poker — Preisgelder bis €300’000\n\n<\/li>\n            <li>• \nSlot‑Races online: Free Spins, Bonus‑Money und reale CHF‑Auszahlungen — Preise gemäss Leaderboard\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSaisonale Events und Entertainment‑Kampagnen\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAdventskalender (24 Tage): tägliche Boni, Free Spins und kleine Extras — starke Festtags‑Promotion\n\n<\/li>\n            <li>• \nWeekend‑Themen und Bar‑Extras: «after dinner» Aktivitäten und passende Drinks — ideal für den Ausklang nach dem Spiel\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBeliebte Spiele im Casino Admiral Mendrisio: Slots, Tische & Poker\n<\/h3>\n\n<p>\nDas Casino Admiral Mendrisio bietet einen ausgewogenen Mix aus beliebten Disziplinen: legendäre Video‑Slots mit Bonus‑Features und progressiven Jackpots, klassische Tischspiele sowie Live‑Poker. Die Slot‑Palette umfasst Top‑Titel mit Free Spins, Multiplikatoren und Jackpots sowie moderne Automaten mit hohem Tempo und starker Visualisierung. Im Tischspiel‑Bereich stehen täglich Amerikanisches Roulette, Blackjack und Baccarat\/Punto Banco zur Verfügung; für Poker‑Fans gibt es Ultimate Texas Hold’em gegen den Dealer. Der separate Pokerroom trägt mit täglichen Cash Games und regelmässigen Turnieren ein stabiles Community‑Gefüge und komfortable Rahmenbedingungen für alle Spielstärken. Elektronisches und halbautomatisches Roulette bringt zusätzliche Geschwindigkeit und Privatsphäre, bleibt aber im Flair der Spielbank. Für Gäste gibt es Raucher‑ und Nichtraucherzonen, sodass der Spielabend individuell planbar bleibt. Die Flächen sind so konzipiert, dass Sie mühelos von Slots zu Tischen und Poker wechseln können, ergänzt durch Pausen an der Bar. Dank klarer Regeln und mehrsprachigem Team ist der Einstieg in jede Disziplin einfach und verlässlich.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKurzbeschreibungen der beliebten Spiele\n\n<\/h4>\n\n <ul>\n            <li>• \nVideo‑Slots & Progressive Jackpots — Klassiker und moderne Titel mit Free Spins, Bonus‑Runden und wachsenden Jackpots (Admiral, Mendrisio); starke Optik und flexible Einsatzgrössen.\n\n<\/li>\n            <li>• \nAmerikanisches Roulette (Live\/Elektronisch) — dynamische Spins, breites Einsatzspektrum von einfachen bis kombinierten Wetten; elektronische Terminals für mehr Privatheit.\n\n<\/li>\n            <li>• \nBlackjack (klassische Regeln) — schnelles, strategisches Kartenspiel gegen den Dealer mit fokussiertem Bankroll‑Management und solider Grundstrategie.\n\n<\/li>\n            <li>• \nPunto Banco \/ Baccarat — elegante Entscheidung zwischen «Banker\/Player», niedrige Einstiegshürde und ruhiger Rhythmus für Liebhaber der Klassik.\n\n<\/li>\n\t    <li>• \nUltimate Texas Hold’em — Poker «gegen das Haus»: fünf Gemeinschaftskarten, gestufte Entscheidungen und fixe Einsatzstruktur ohne Gegnersuche.\n<\/li>\n\t    <li>• \nPoker Cash Games — Texas Hold’em und Omaha im Pokerroom, aktiver Player‑Pool und passende Abendzeiten für durchgehenden Flow.\n\n<\/li>\n\t    <li>• \nPokerturniere — regelmässige Serien mit abgestimmter Struktur für unterschiedliche Bankrolls, tiefe Stacks und Final‑Action am TV‑Table.\n\n<\/li>\n\t    <li>• \nElektronisches Roulette — persönliche Terminals, hohes Tempo und klare Interfaces für alle, die einen technologischen Ansatz bevorzugen.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimale und maximale Einsätze im Casino Admiral Mendrisio\n<\/h3>\n\n<p> \nDie Werte spiegeln gängige Bereiche auf der Fläche und im Pokerroom; einzelne Tische können je nach Zeitpunkt, Nachfrage und Tischstatus abweichen. Wichtig: Poker wird in Euro abgerechnet, Slots\/Tischspiele in Schweizer Franken. Prüfen Sie die Limits stets am Tischschild oder beim Pit Boss — so vermeiden Sie unnötige Wechsel und optimieren Ihre Spielplanung.\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#94011e; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimaler Einsatz<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximaler Einsatz<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (Video, Jackpots)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">ab 0.01 CHF pro Spin<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">bis 25 CHF\/EUR pro Spin<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Amerikanisches Roulette (Live\/Elektronisch)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5–20 CHF <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">gemäss Tischlimit<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (klassisch)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5–50 CHF pro Box <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> bis 1’000 CHF pro Box<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Punto Banco \/ Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5–20 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">gemäss Tischlimit<\/td>\n                <\/tr>\n <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em (gegen das Haus)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Ante 5–25 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">gemäss Tischlimit<\/td>\n                <\/tr>\n<tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker Cash Games (EUR)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2\/5 NLH, 5\/5 PLO<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">bis 10\/20 NLH und 20\/20 PLO<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents, Specials und Nightlife im Casino Admiral Mendrisio<\/h3>\n\n<p>\nIm Casino Admiral Mendrisio ist das Entertainment auf «einen Abend aus einem Guss» ausgelegt: Gaming, Kulinarik, Themen‑Aktivitäten und Lounge‑Atmosphäre fliessen in einem Raum direkt bei FoxTown zusammen. Die Basis‑Formate laufen täglich bis spät, an Wochenenden kommen charakteristische After‑Dinner‑Elemente in den Bars und im Event‑Bereich hinzu. So lassen sich Slots und Tischspiele mühelos mit Dinner und entspanntem Ausklang verbinden.\n\n<\/p>\n<br>\n\n<p>\nDen Regelrhythmus bestimmen Tischspiele und Poker: Tische starten am Nachmittag und laufen bis in die Nacht, Cash‑Poker ist täglich verfügbar, dazu ein Turnier‑Kalender mit Monats‑Highlights. Für Slot‑Fans gibt es kontinuierliche Vor‑Ort‑Promotions und Online‑Aktivitäten wie die «Game of the Week» mit Free Spins sowie Festtags‑Kampagnen. Progressive Jackpots liefern spürbare Treffer und verstärken das Abend‑Momentum.\n\n<\/p>\n<br>\n<p>\nSpezielle Events und Shows erscheinen als Themen‑Tage, saisonale Promotions und Partner‑Aktionen: an bestimmten Daten gibt es Lucky Chips und Promo‑Tickets, Mini‑Draws und «Kabinen»‑Aktivitäten; Sport‑Kooperationen bringen lokales Flair. In der Festzeit sorgt der Adventskalender mit täglichen Extras für eine Serie von Überraschungen. Parallel organisiert das Kulinarik‑Team intime Abende und Degustationen — ideal als Auftakt oder Abschluss Ihres Gaming‑Programms.\n\n<\/p>\n<br>\n<p>\nDie Nightlife‑Komponente konzentriert sich auf die Bars im Spielbereich: lounge‑tauglicher Takt, saisonale Drinks, schnelle Speisen und After‑Dinner‑Treffen zeichnen das Flair aus. Einzelne Bar‑Zonen dienen als Treffpunkt nach Shopping und Spiel, die Trennung von Raucher‑ und Nichtraucher‑Bereichen macht das Format flexibel für Gruppen. Das Team wahrt dabei die Balance von Privatsphäre und grosser Casino‑Energie.\n\n<\/p>\n<br>\n<p>\nPrivate und Corporate‑Anlässe profitieren vom Event‑Space: Reservierung von Flächen, Kulinarik‑Integration und passender Gaming‑Content sind möglich. So gelingen Team‑Events, kleine Empfänge und Präsentationen ohne Standortwechsel — mit direktem Zugang zur gesamten Entertainment‑Infrastruktur.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Entertainment‑Formate \n<\/h4>\n\n <ul>\n            <li>• \nRegelmässige Poker‑Turniere — Wochen‑\/Monats‑Highlights, Final‑Tables, Preisgelder bis €300’000\n\n<\/li>\n            <li>• \nPoker Cash Games — tägliche Abend‑Tische (Texas Hold’em, Omaha), lebendiger Player‑Pool\n\n<\/li>\n            <li>• \nSlot‑Promotions & «Game of the Week» — bis 45 Free Spins pro Woche online, thematische Überraschungen und Top‑Slots\n\n<\/li>\n            <li>• \nSaisonale Floor‑Promotions — Lucky Chips\/Promo‑Vouchers (z. B. CHF 10), Mini‑Draws, «Kabinen»‑Formate\n\n<\/li>\n\t    <li>• \nAdventskalender — 24 Tage mit täglichen Boni und Free Spins im Dezember\n\n<\/li>\n  <li>• \nProgressive Jackpots — Admiral Jackpot und Mendrisio Jackpot, markante Treffer in Peak‑Zeiten\n<\/li>\n            <li>• \nTischspiele (täglich) — Amerikanisches Roulette (Live\/Elektronisch), Blackjack, Punto Banco, Ultimate Texas Hold’em\n<\/li>\n            <li>• \nLounge‑Abende in den Bars — After‑Dinner‑Format, saisonale Cocktails, schnelle Speisen in Admiral Bistrot und Admiral Cafés\n\n<\/li>\n            <li>• \nKulinarische Abende — Degustationen, Wine‑Pairings, Signature‑Menüs im Admiral Restaurant\n\n<\/li>\n\t    <li>• \nSport‑Partner‑Tage — Promo‑Vouchers für Gäste mit Match‑Tickets\n\n<\/li>\n\t    <li>• \nPrivate\/Corporate Events — Flächen‑Reservierung, Kulinarik‑Einbindung und passender Gaming‑Content für den Anlass\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGastronomie, Hotels und Erholung im Casino Admiral Mendrisio\n<\/h3>\n\n<p>\nIm Casino Admiral Mendrisio entsteht ein «Abend aus einem Guss»: Nach dem Spiel geht’s nahtlos zum Apéro in die Bar‑Zonen oder zum Dinner im Restaurant, danach zurück an die Tische oder entspannt in die Lounge‑Atmosphäre. Im Haus sorgen die gemütlichen Admiral Cafés und der intime Admiral Bistrot für schnelle Pausen, während das abendliche Admiral Restaurant mit Produkten aus dem Tessin und passender Weinkarte überzeugt — ideal als Treffpunkt vor dem Spiel und als harmonischer Ausklang. Dank getrennten Bereichen für Raucher und Nichtraucher bleiben Bar‑Stops und Dinner für jede Gruppe komfortabel planbar.\n\n<\/p>\n<br>\n\n<p>\nFür Übernachtungen liegt das Hotel Coronado direkt neben dem Casino — fussläufig vom Eingang und vom Bahnhof. Das Haus ist auf Casino‑Gäste ausgerichtet: flexible Meeting‑Spaces, Currency‑Exchange und Beauty‑Services; perfekt für Poker‑Wochenenden oder Trips mit Tischen und Slots. In Mendrisio und im nahen Como finden sich weitere Hotels für jedes Budget; die Lage an der A2 sowie umfangreiches Gratis‑Parking vereinfachen die Anreise wesentlich.\n\n<\/p>\n<br>\n<p>\nDie Erholung im Casino wird durch «After‑Dinner»‑Formate getragen: saisonale Cocktails, schnelle Speisen und Lounge‑Sound halten den Abend im Fluss. Das Menü des Restaurants eignet sich für planbare Pausen zwischen Slots und Poker, und die Bar‑Öffnungszeiten folgen dem Casino‑Rhythmus — so lassen sich Spiel und Gespräche flexibel kombinieren. Wer Shopping mit Gaming verbinden möchte, startet bequem im FoxTown und setzt den Abend mit Dinner und Jackpots oder Roulette fort.\n\n<\/p>\n<br>\n<p>\nDamit der Besuch reibungslos und ohne Zeitdruck verläuft, empfiehlt sich eine Tischreservation im Admiral Restaurant für den frühen Abend sowie eine rechtzeitige Hotelbuchung nach Event‑Kalender. Das Team ist mehrsprachig und hilft schnell mit Empfehlungen zu Pausen, Drinks, Wegführung und nächster Parking‑Zone.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Erholungsorte\n<\/h4>\n\n <ul>\n            <li>• \nAdmiral Restaurant — Abendküche mit Tessiner Produkten, Weinkarte, intime Atmosphäre für Dinner vor\/nach dem Spiel\n\n<\/li>\n            <li>• \nAdmiral Bistrot — schnelle Speisen und Snacks mit Blick auf den Floor; ideal für kurze Breaks zwischen den Tischen\n\n<\/li>\n            <li>• \nAdmiral Cafés (2 Zonen) — Kaffee, Signature‑Cocktails, Desserts; Öffnungszeiten gemäss Casino, Bereiche für Raucher\/Nichtraucher\n\n<\/li>\n            <li>• \nHotel Coronado (direkt nebenan) — Zimmer in Fussdistanz, Meeting‑Spaces, Currency‑Exchange, Beauty‑Services; geeignet für Poker‑Weekends\n\n<\/li>\n\t    <li>• \nEvent‑Area im Casino — intime Anlässe, Degustationen, private Treffen; Gaming‑Content und Kulinarik lassen sich kombinieren\n\n<\/li>\n\t    <li>• \nFoxTown (Nachbarschaft) — zusätzliche Cafés\/Restaurants sowie Shopping; idealer Startpunkt mit späterem Abend im Casino\n\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Barrierefreiheit für mobilitätseingeschränkte Gäste?",
+                    "answer": "Ja, Eingänge mit Rampen, Lifte zu den Hauptbereichen und angepasste Sanitäranlagen sind vorhanden. Das Team begleitet Sie bei Bedarf zu Tischen oder ins Restaurant. Bitte melden Sie speziellen Zugang zur Poker\/Tischspiel‑Zone vorab am Empfang.\n"
+                },
+                {
+                    "title": "Lost & Found – wie läuft das?",
+                    "answer": "Wenden Sie sich an den Empfang mit Beschreibung, Zeit und Ort. Fundstücke werden protokolliert; Ausgabe erfolgt gegen Ausweis. Wertsachen verwahrt die Security bis zur Übergabe an die Eigentümerin\/den Eigentümer.\n"
+                },
+                {
+                    "title": "EV‑Ladestationen sowie Taxi\/Ride‑Sharing?",
+                    "answer": "Das Parking ist grosszügig; ein Teil der Plätze verfügt über EV‑Lader. Taxi‑ und Ride‑Sharing‑Zonen sind beim Eingang markiert; das Team weist Ihnen abends den besten Treffpunkt.\n"
+                },
+                {
+                    "title": "Verbindung von Vor‑Ort‑Casino und Online‑Plattform Admiral.ch?",
+                    "answer": "Beides gehört zur ADMIRAL‑Marke, doch Boni und Status werden separat verwaltet. Ein direkter Punkte‑Transfer zwischen Offline und Online ist in der Regel nicht vorgesehen; Aktionen und Laufzeiten unterscheiden sich. Aktivieren Sie beide Accounts, um nichts zu verpassen.\n"
+                },
+                {
+                    "title": "Reklamationen\/Anliegen und Datenschutz‑Requests?",
+                    "answer": "Anliegen werden am Empfang oder via Formular erfasst; komplexe Fälle gehen an die Duty‑Manager. Datenschutz‑Anfragen (Auskunft\/Löschung) erfolgen schriftlich nach Schweizer Vorgaben; ein Identitätsnachweis ist erforderlich.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1126",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Admiral Mendrisio"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}
